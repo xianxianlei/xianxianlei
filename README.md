@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xianxianlei
-- 👀 I’m interested in reading books, watching movies, clean up my home.
+- 👀 **I’m interested in reading books, watching movies, clean up my home.**
 - 🌱 I’m currently learning journalism and communication
 - 💞️ I’m looking to collaborate on data journalism
 - 📫 How to reach me ...
